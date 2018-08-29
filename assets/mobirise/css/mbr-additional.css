@@ -1816,30 +1816,27 @@ body {
 .cid-r238zWoPNN .mbr-section-btn {
   color: #ffffff;
 }
-.cid-r23bel4WWl {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-r23bel4WWl h3 {
-  text-align: center;
-}
-.cid-r23bel4WWl .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-r23bel4WWl .mbr-content-text {
-  color: #767676;
-}
-.cid-r23bel4WWl .panel-item {
+.cid-r28CRmfDv5 {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-r23bel4WWl .card {
-  word-wrap: break-word;
+.cid-r28CRmfDv5 .image-block {
+  margin: auto;
 }
-.cid-r23bel4WWl .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
+.cid-r28CRmfDv5 figcaption {
+  position: relative;
+}
+.cid-r28CRmfDv5 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r28CRmfDv5 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-r23kNy2aw4 {
   background-image: url("../../../assets/images/spring-messenger-900x804.png");
